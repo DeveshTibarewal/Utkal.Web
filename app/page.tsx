@@ -24,7 +24,7 @@ export default function Home() {
                 Coming Soon
               </h2>
               <p className="text-lg md:text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
-                We're launching soon. Stay tuned.
+                We&apos;re launching soon. Stay tuned.
               </p>
             </div>
           </section>
