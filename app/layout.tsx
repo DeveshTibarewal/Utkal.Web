@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     description:
       'UTKAL TEXTORIUM is launching soon. Stay tuned for our official launch announcement.',
     type: 'website',
-    url: 'https://PASTE_YOUR_DOMAIN_HERE.com',
+    url: 'https://www.utkaltextorium.com',
     images: [
       {
         url: 'https://bolt.new/static/og_default.png',
