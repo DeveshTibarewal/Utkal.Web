@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import { Mail, Phone, MapPin, Calendar } from 'lucide-react';
 import {
   Card,
@@ -17,6 +18,15 @@ export default function Home() {
         <div className="max-w-4xl mx-auto space-y-12">
           <section className="text-center space-y-6 py-12 md:py-20">
             <div className="space-y-4">
+              <div className="flex justify-center mb-6">
+                <Image
+                  src="/logo.png"
+                  alt="Utkal Textorium Logo"
+                  width={120}
+                  height={120}
+                  className="h-24 w-24 md:h-32 md:w-32 object-contain"
+                />
+              </div>
               <h1 className="text-5xl md:text-7xl font-bold tracking-tight bg-gradient-to-br from-slate-900 via-slate-800 to-slate-600 bg-clip-text text-transparent">
                 UTKAL TEXTORIUM
               </h1>
