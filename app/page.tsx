@@ -27,13 +27,6 @@ export default function Home() {
                 We're launching soon. Stay tuned.
               </p>
             </div>
-
-            <div className="flex items-center justify-center gap-2 text-slate-500 pt-4">
-              <Calendar className="h-5 w-5" />
-              <span className="text-sm">
-                Expected Launch: MONTH YEAR
-              </span>
-            </div>
           </section>
 
           <Separator className="max-w-xs mx-auto" />
@@ -99,7 +92,7 @@ export default function Home() {
       <footer className="border-t border-slate-200 mt-20">
         <div className="container mx-auto px-4 py-8">
           <p className="text-center text-sm text-slate-600">
-            © {currentYear} UTKAL TEXTORIUM. All rights reserved.
+            © {currentYear} Utkal Textorium. All rights reserved.
           </p>
         </div>
       </footer>
