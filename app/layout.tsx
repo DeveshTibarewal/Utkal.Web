@@ -41,6 +41,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="/logo.png" />
         <meta
           name="facebook-domain-verification"
           content="PASTE_VERIFICATION_CODE_HERE"
