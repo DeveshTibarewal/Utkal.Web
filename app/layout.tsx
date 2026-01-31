@@ -5,13 +5,13 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'UTKAL TEXTORIUM - Coming Soon',
+  title: 'Utkal Textorium - Ladies & Kids Wear | Cuttack, Odisha',
   description:
-    'UTKAL TEXTORIUM is launching soon. Stay tuned for our official launch announcement.',
+    'Utkal Textorium is a retail store in Cuttack offering quality ladies and kids wear including kurtis, suits, dresses, sets and seasonal collections. Visit us at CDA Sector 9, Cuttack.',
   openGraph: {
-    title: 'UTKAL TEXTORIUM - Coming Soon',
+    title: 'Utkal Textorium - Ladies & Kids Wear | Cuttack, Odisha',
     description:
-      'UTKAL TEXTORIUM is launching soon. Stay tuned for our official launch announcement.',
+      'Utkal Textorium is a retail store in Cuttack offering quality ladies and kids wear including kurtis, suits, dresses, sets and seasonal collections.',
     type: 'website',
     url: 'https://www.utkaltextorium.com',
     images: [
@@ -22,9 +22,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'UTKAL TEXTORIUM - Coming Soon',
+    title: 'Utkal Textorium - Ladies & Kids Wear | Cuttack, Odisha',
     description:
-      'UTKAL TEXTORIUM is launching soon. Stay tuned for our official launch announcement.',
+      'Utkal Textorium is a retail store in Cuttack offering quality ladies and kids wear including kurtis, suits, dresses, sets and seasonal collections.',
     images: [
       {
         url: 'https://bolt.new/static/og_default.png',
